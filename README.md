@@ -150,6 +150,7 @@ If you find this work helpful, please cite our paper (paper citation coming soon
 For questions or feedback, feel free to open an issue or contact us.
 
 1. Code Citation:
+
     ```bibtex
     @software{kiramei_2025_15809246,
       author       = {キラメイ},
