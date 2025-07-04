@@ -146,7 +146,19 @@ python exp_cmu_3d.py --kernel_size 10 --dct_n 20 --input_n 50 --output_n 10 --sk
 
 ## 📧 Citation & Contact
 
-If you find this work helpful, please cite our paper (citation details coming soon).
+If you find this work helpful, please cite our paper (paper citation coming soon).
 For questions or feedback, feel free to open an issue or contact us.
 
-
+1. Code Citation:
+    ```bibtex
+    @software{kiramei_2025_15809246,
+      author       = {キラメイ},
+      title        = {Kiramei/CBFL: Release the Code for the Paper},
+      month        = jul,
+      year         = 2025,
+      publisher    = {Zenodo},
+      version      = {v1},
+      doi          = {10.5281/zenodo.15809246},
+      url          = {https://doi.org/10.5281/zenodo.15809246},
+    }
+    ```
